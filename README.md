@@ -92,7 +92,7 @@ Backend-разработчик с опытом создания высокона
 | Роль | Компания | Период |
 |------|----------|--------|
 | 🔧 Backend-разработчик | Motion Web IT Club | Март 2024 — наст. время |
-| 🎓 Преподаватель Python & Backend | Motion Web IT Academy | Март 2024 — наст. время |
+| 🎓 Преподаватель Python & Backend | Motion Web IT Academy | Март 2025  |
 
 ---
 
